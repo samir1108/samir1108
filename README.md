@@ -1,5 +1,6 @@
 - 👋 Hi, I’m samir
-- 👀 I’m interested in doing something great with my life
+- 👀 I’m going to do 
+-  something great with my life
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on programming and web development
 - 📫 How to reach me ...samirssourav11@gmail.com
