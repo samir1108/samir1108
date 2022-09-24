@@ -1,8 +1,7 @@
 - 👋 Hi, I’m samir
 - 👀 I’m going to do 
 -   great things in my life
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on programming and web development
+-
 - 📫 How to reach me ...samirssourav11@gmail.com
 
 <!---
